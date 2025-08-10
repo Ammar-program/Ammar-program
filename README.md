@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Ammar-program
-- 👀 I’m interested in python java html css javascript etc.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on instagran
-- 📫 How to reach me Email:- ammar98761@outlook.com
+# 👋 Hi, I'm Ammar
 
-<!---
-Ammar-program/Ammar-program is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Python Developer | AI & Data Science Enthusiast**  
+📍 Helping clients transform ideas into powerful software solutions
+
+---
+
+## 🚀 About Me
+- 🎯 Specializing in **Python**, **Data Science**, and **Automation**
+- 📊 Experienced with **Pandas**, **NumPy**, **scikit-learn**, and **API development**
+- 🌱 Currently learning **Machine Learning deployment** & **cloud-based AI solutions**
+- 🤝 Open to freelance projects & collaborations
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Libraries & Frameworks:** Pandas, NumPy, scikit-learn, Flask, Matplotlib  
+**Tools:** Git, VS Code, Jupyter Notebook, Docker  
+**Platforms:** GitHub, Heroku, AWS
